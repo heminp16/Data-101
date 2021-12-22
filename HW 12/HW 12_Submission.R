@@ -60,5 +60,3 @@ write.csv(predictions.20k, file = "/Users/hemin/Desktop/Data 101/HW 12/HW12_Citi
 CitiPredictions <- read.csv("/Users/hemin/Desktop/Data 101/HW 12/HW12_CitiPredictions_Submit.csv")
 colnames(CitiPredictions) <- c("Id","Predicted")
 write.csv(CitiPredictions, file = "/Users/hemin/Desktop/Data 101/HW 12/HW12_CitiPredictions_Submit.csv",row.names=FALSE)
-
-HW12_CitiPredictions_Submit.csv
