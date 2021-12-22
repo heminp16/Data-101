@@ -1,0 +1,101 @@
+﻿sel,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop
+1,Someone You Loved,Lewis Capaldi,pop,2019,110,41,50,-6,11,45,182,75,3,89
+2,Jocelyn Flores,XXXTENTACION,emo rap,2017,134,39,87,-9,30,44,119,47,24,88
+3,Perfect,Ed Sheeran,pop,2017,95,45,60,-6,11,17,263,16,2,88
+4,Circles,Post Malone,dfw rap,2019,120,76,70,-3,9,55,215,19,4,88
+5,Lucid Dreams,Juice WRLD,chicago rap,2018,84,57,51,-7,34,22,240,35,20,87
+6,Shape of You,Ed Sheeran,pop,2017,96,65,83,-3,9,93,234,58,8,87
+7,bad guy,Billie Eilish,art pop,2019,135,43,70,-11,10,56,194,33,38,87
+8,7 rings,Ariana Grande,dance pop,2019,140,32,78,-11,9,33,179,59,33,87
+9,SAD!,XXXTENTACION,emo rap,2018,75,61,74,-5,12,47,167,26,14,86
+10,Moonlight,XXXTENTACION,emo rap,2018,128,54,92,-6,10,71,135,56,8,86
+11,Shallow,Lady Gaga,art pop,2018,96,39,57,-6,23,32,216,37,3,86
+12,Lost in the Fire (feat. The Weeknd),Gesaffelstein,dark clubbing,2019,101,67,66,-12,12,17,202,9,4,86
+13,rockstar (feat. 21 Savage),Post Malone,dfw rap,2018,160,52,59,-6,13,13,218,12,7,85
+14,SICKO MODE,Travis Scott,rap,2018,155,73,83,-4,12,45,313,1,22,85
+15,Thunder,Imagine Dragons,modern rock,2017,168,82,61,-5,15,29,187,1,4,85
+16,Robbery,Juice WRLD,chicago rap,2019,160,69,69,-5,15,58,240,33,5,85
+17,God's Plan,Drake,canadian hip hop,2018,77,45,75,-9,55,36,199,3,11,84
+18,Better Now,Post Malone,dfw rap,2018,145,58,68,-6,14,34,231,33,4,83
+19,One Kiss (with Dua Lipa),Calvin Harris,dance pop,2018,124,86,79,-3,8,59,215,4,11,83
+20,The Middle,Zedd,complextro,2018,107,66,75,-3,11,44,185,17,4,83
+21,Youngblood,5 Seconds of Summer,boy band,2018,120,85,60,-5,12,15,203,2,46,83
+22,changes,XXXTENTACION,emo rap,2018,65,31,67,-10,10,52,122,88,3,83
+23,Let You Down,NF,hip hop,2017,148,71,66,-6,18,46,212,31,12,83
+24,Call Out My Name,The Weeknd,canadian contemporary r&b,2018,134,59,46,-5,31,18,228,17,4,83
+25,Havana (feat. Young Thug),Camila Cabello,dance pop,2018,105,52,77,-4,13,39,217,18,3,82
+26,All The Stars (with SZA),Kendrick Lamar,conscious hip hop,2018,97,63,70,-5,9,55,232,6,6,82
+27,I Fall Apart,Post Malone,dfw rap,2016,144,54,56,-5,20,29,223,7,4,82
+28,Wolves,Selena Gomez,dance pop,2017,125,80,72,-5,20,31,198,12,4,82
+29,Old Town Road - Remix,Lil Nas X,lgbtq+ hip hop,2019,136,62,88,-6,11,64,157,5,10,82
+30,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,dfw rap,2019,90,52,76,-4,7,93,158,53,6,82
+31,Pop Out (feat. Lil Tjay),Polo G,chicago rap,2019,168,64,77,-7,7,26,167,15,47,82
+32,Ransom,Lil Tecca,melodic rap,2019,180,64,75,-6,7,23,131,2,29,82
+33,MIDDLE CHILD,J. Cole,conscious hip hop,2019,124,36,84,-12,27,46,214,15,28,82
+34,Going Bad (feat. Drake),Meek Mill,hip hop,2018,86,50,89,-6,25,54,181,26,9,82
+35,Wow.,Post Malone,dfw rap,2019,100,54,83,-7,10,39,150,14,21,82
+36,EARFQUAKE,"Tyler, The Creator",hip hop,2019,80,50,55,-9,80,41,190,23,7,82
+37,Psycho (feat. Ty Dolla $ign),Post Malone,dfw rap,2018,140,56,75,-8,11,46,221,55,11,81
+38,I Like It,Cardi B,dance pop,2018,136,73,82,-4,37,65,253,10,13,81
+39,FRIENDS,Marshmello,brostep,2018,95,88,63,-2,13,53,203,21,5,81
+40,no tears left to cry,Ariana Grande,dance pop,2018,122,71,70,-6,29,35,206,4,6,81
+41,New Rules,Dua Lipa,dance pop,2017,116,70,76,-6,15,61,209,0,7,81
+42,In My Mind,Dynoro,edm,2018,126,77,69,-5,12,16,185,18,15,81
+43,Señorita,Shawn Mendes,canadian pop,2019,117,55,76,-6,8,75,191,4,3,81
+44,Without Me,Halsey,dance pop,2018,136,49,75,-7,9,53,202,30,7,81
+45,a lot,21 Savage,atl hip hop,2018,146,64,84,-8,34,27,289,4,9,81
+46,IDGAF,Dua Lipa,dance pop,2017,97,54,84,-6,8,51,218,4,9,80
+47,Goodbyes (feat. Young Thug),Post Malone,dfw rap,2019,150,65,55,-4,10,16,175,46,8,80
+48,Money In The Grave (Drake ft. Rick Ross),Drake,canadian hip hop,2019,101,50,83,-4,12,10,205,10,5,80
+49,ZEZE (feat. Travis Scott & Offset),Kodak Black,florida rap,2018,98,60,86,-6,9,50,229,5,18,80
+50,Nice For What,Drake,canadian hip hop,2018,93,91,59,-6,12,76,211,9,7,79
+51,Te Boté - Remix,Nio Garcia,latin,2018,97,68,90,-3,6,44,418,54,21,79
+52,Eastside (with Halsey & Khalid),benny blanco,electropop,2018,89,68,56,-8,12,32,174,56,32,79
+53,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,melodic rap,2018,93,66,58,-5,11,43,189,2,30,79
+54,Better,Khalid,pop,2018,98,55,60,-10,10,11,229,8,10,79
+55,boyfriend (with Social House),Ariana Grande,dance pop,2019,190,80,40,-4,16,70,186,12,46,79
+56,In My Feelings,Drake,canadian hip hop,2018,91,63,84,-6,40,35,218,6,13,78
+57,Mine,Bazzi,dance pop,2018,143,79,71,-4,45,72,131,2,7,78
+58,Nights Like This (feat. Ty Dolla $ign),Kehlani,dance pop,2019,146,73,61,-5,15,29,202,37,15,78
+59,Pure Water (with Migos),Mustard,cali rap,2019,202,56,68,-6,34,14,192,17,13,78
+60,Location (feat. Burna Boy),Dave,uk hip hop,2019,110,50,81,-6,10,55,241,27,30,78
+61,3 Nights,Dominic Fike,alternative pop rock,2018,152,52,82,-7,10,88,178,22,9,78
+62,Taste (feat. Offset),Tyga,dance pop,2018,98,56,88,-7,10,34,233,2,12,77
+63,Nevermind,Dennis Lloyd,israeli pop,2017,100,69,60,-8,41,8,157,16,20,77
+64,emotions,iann dior,melodic rap,2019,81,63,63,-6,14,16,131,1,4,77
+65,Suge,DaBaby,north carolina hip hop,2019,75,66,88,-6,13,84,163,6,43,77
+66,X,Nicky Jam,latin,2019,180,75,59,-5,30,69,173,3,6,76
+67,Look Alive (feat. Drake),BlocBoy JB,memphis hip hop,2018,140,58,92,-7,11,60,181,0,27,76
+68,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,dance pop,2018,92,81,65,-4,17,55,211,19,5,76
+69,Love Lies (with Normani),Khalid,pop,2018,144,65,71,-6,13,34,202,10,4,76
+70,Never Be the Same,Camila Cabello,dance pop,2018,130,71,64,-4,14,24,227,18,7,76
+71,Finesse - Remix; feat. Cardi B,Bruno Mars,dance pop,2017,105,86,70,-5,2,93,217,2,10,76
+72,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,dance pop,2018,102,72,60,-5,12,51,208,9,5,76
+73,Look Back at It,A Boogie Wit da Hoodie,melodic rap,2018,96,59,79,-5,15,54,179,41,4,76
+74,Panini,Lil Nas X,lgbtq+ hip hop,2019,154,59,70,-6,12,48,115,34,8,76
+75,One Thing Right,Marshmello,brostep,2019,88,63,66,-2,58,44,182,6,5,76
+76,River (feat. Ed Sheeran),Eminem,detroit hip hop,2017,90,75,75,-6,7,66,221,14,52,75
+77,Me Niego (feat. Ozuna & Wisin),Reik,latin,2019,94,78,78,-4,64,77,222,5,9,75
+78,Eastside (with Halsey & Khalid),benny blanco,electropop,2018,90,69,63,-8,20,33,171,55,24,75
+79,Talk (feat. Disclosure),Khalid,pop,2019,136,40,90,-9,6,35,198,5,13,75
+80,Solo (feat. Demi Lovato),Clean Bandit,dance pop,2018,105,64,74,-5,35,56,223,4,4,74
+81,Jackie Chan,Tiësto,big room,2018,128,83,75,-3,6,69,216,37,5,74
+82,gone girl,iann dior,melodic rap,2019,95,71,68,-6,7,36,137,16,3,74
+83,The London (feat. J. Cole & Travis Scott),Young Thug,atl hip hop,2019,98,59,80,-7,13,18,200,2,15,74
+84,Dura,Daddy Yankee,latin,2018,95,84,78,-3,41,84,200,17,5,73
+85,Leave Me Alone,Flipp Dinero,melodic rap,2019,150,74,79,-3,18,74,196,11,9,73
+86,Post Malone (feat. RANI),Sam Feldt,dance pop,2019,107,64,59,-4,11,65,174,8,12,73
+87,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,dance pop,2018,154,77,64,-7,6,59,164,5,8,72
+88,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Megan Thee Stallion,houston rap,2019,99,81,87,-5,21,57,199,0,16,72
+89,Shotta Flow (feat. Blueface) [Remix],NLE Choppa,memphis hip hop,2019,120,51,89,-5,14,57,177,3,42,72
+90,Clout (feat. Cardi B),Offset,atl hip hop,2019,140,62,92,-7,12,42,206,23,10,71
+91,Keisha & Becky - Remix,Russ Millions,uk drill,2019,141,47,86,-10,12,64,253,25,48,71
+92,Thotiana,Blueface,cali rap,2018,104,38,91,-13,11,39,129,18,27,69
+93,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,pop,2019,95,79,75,-6,7,61,206,21,12,69
+94,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,pop,2018,125,54,85,-7,13,45,236,57,5,68
+95,Vossi Bop,Stormzy,grime,2019,188,65,68,-6,13,43,196,13,34,68
+96,Antisocial (with Travis Scott),Ed Sheeran,pop,2019,152,82,72,-5,36,91,162,13,5,67
+97,Échame La Culpa,Luis Fonsi,latin,2017,96,89,73,-4,14,68,174,4,4,66
+98,Juicy,Doja Cat,dance pop,2019,170,66,79,-3,7,46,202,9,7,61
+99,Options,NSG,afro dancehall,2020,102,62,84,-5,10,76,240,39,9,59
+100,Better Now,Post Malone,dfw rap,2018,145,58,68,-6,14,34,231,33,4,83
